@@ -3,4 +3,4 @@
  - Primeiro, o(a) usuário(a) escolhe a moeda na qual irá ser convertida;
  - Em seguida, o(a) usuário(a) vai definir um valor em _**reais**_ para ser convertido.
  
- No final, o programa mostrará a conversão das moedas.
+ No final, o programa mostrará as conversões das moedas.
